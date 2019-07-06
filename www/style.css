@@ -1,0 +1,18 @@
+.title {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    border: 3px solid coral;
+    padding: 10px;
+}
+
+.gif{
+    text-align: end;
+}
+
+.btn-primary {
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: black;
+}
